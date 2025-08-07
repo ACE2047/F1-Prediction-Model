@@ -1,0 +1,15 @@
+pandas
+numpy
+scikit-learn
+matplotlib
+seaborn
+requests
+beautifulsoup4
+xgboost
+lightgbm
+plotly
+jupyter
+fastf1
+python-dateutil
+lxml
+openpyxl
